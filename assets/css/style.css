@@ -1,3 +1,6 @@
-h1 {
-	color: green;
+body {
+	margin-right: 70px;
+	margin-left: 70px;
+	text-align: center;
+	background-image: url("../images/pokemon-classic.png");
 }
